@@ -1,0 +1,1 @@
+from .cache import get_model_version_from_cache_backend
