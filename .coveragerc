@@ -1,0 +1,19 @@
+# .coveragerc to control coverage.py
+
+[run]
+omit =
+        *__init__*
+        */usr/local/lib*
+        *Test*
+        *test*
+        *tests/*
+        *tests_pre_start*
+
+[html]
+omit =
+        *__init__*
+        */usr/local/lib*
+        *Test*
+        *test*
+        *tests/*
+        *app/tests_pre_start*
