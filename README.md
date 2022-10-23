@@ -11,7 +11,7 @@
 ### The .env file
 
 First, create a `.env` file and put it inside the root folder of the project.  
-The `.env` file is the one that contains all your configurations, api keys, etc.
+The `.env` file is the one that contains all your configurations, secrets, etc.
 You can copy/paste the contents from `.env.example` to your `.env` file.
 
 ### Security
