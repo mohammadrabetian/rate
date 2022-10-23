@@ -49,7 +49,12 @@ Alternative automatic documentation with ReDoc (from the OpenAPI backend): http:
 
 Traefik UI, to see how the routes are being handled by the proxy: http://localhost:8090
 
-<img src="images/traefik.png" width="755" height="422">
+<img src="images/traefik.png" width="755" height="422">  
+
+PGAdmin, PostgreSQL web administration: http://localhost:5050
+
+<img src="images/pgadmin.png" width="755" height="422">  
+
 
 **Note**: The first time you start your stack, it might take a few minutes for it to be ready. While the backend configures everything. You can check the logs to monitor it.
 
